@@ -6,7 +6,7 @@ This analysis shows the relationship of ride fares in city types/regions over a 
 ### Results
 The first analysis shows the each regions, its fares, total drivers, average ride per ride and driver in each regions.
 
-On the second analysis, the plot shows the fare in the *rural, urban and suburban* region from *01 Jan to 29 Apr*
+On the second analysis, the plot shows the fare in the *rural, urban and suburban* region from *01 Jan to 29 Apr*.
 
 ### Summary 
 #### Recommendations
